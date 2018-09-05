@@ -85,6 +85,7 @@
 .card-btn {
   background: #fff;
   min-width: 70px;
+  color: #1c1c1c;
 }
 
 .card-btn:hover {
@@ -92,6 +93,9 @@
     color: #fff;
 }
 
+.result-count{
+  color: #fff;
+}
 .result-item:hover.card-btn{background:#000;}
 .link {
   cursor: pointer;
@@ -115,7 +119,8 @@
 }
 
 .topic:hover {
-  opacity: .8
+  opacity: .8;
+  background: linear-gradient(90deg,#c9373f 0,#930f5b);
 }
 
 .topic.active {
