@@ -1,6 +1,6 @@
 {
   "name": "GitAdventure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@appbaseio/reactivesearch": "^2.8.2",
     "react": "^16.4.2",
